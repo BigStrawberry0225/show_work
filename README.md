@@ -6,49 +6,49 @@
 
 ### 1.登录
 
-![image-20210309164015512](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164015512.png)
+![image-20210309164015512](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164015512.png)
 
 ### 2.普通用户首页
 
-![image-20210309164033632](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164033632.png)
+![image-20210309164033632](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164033632.png)
 
 ### 3.上传优秀作品
 
-![image-20210309164059502](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164059502.png)
+![image-20210309164059502](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164059502.png)
 
 ### 4.个人信息展示
 
-![image-20210309164126373](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164126373.png)
+![image-20210309164126373](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164126373.png)
 
 ### 5.作品分类展示
 
-![image-20210309164334147](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164334147.png)
+![image-20210309164334147](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164334147.png)
 
 ### 6.优秀作品查看
 
-![image-20210309164338773](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164338773.png)
+![image-20210309164338773](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164338773.png)
 
-![image-20210309164351433](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164351433.png)
+![image-20210309164351433](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164351433.png)
 
 ### 7.优秀作品编辑
 
-![image-20210309164356939](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164356939.png)
+![image-20210309164356939](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164356939.png)
 
 ### 8.作品分页展示
 
-![image-20210309164400865](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164400865.png)
+![image-20210309164400865](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164400865.png)
 
 ### 9.管理员界面（用户管理
 
-![image-20210309164406647](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164406647.png)
+![image-20210309164406647](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164406647.png)
 
 ### 10.管理员界面（课程管理
 
-![image-20210309164410343](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164410343.png)
+![image-20210309164410343](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164410343.png)
 
 ### 11.管理员界面（项目管理
 
-![image-20210309164415365](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210309164415365.png)
+![image-20210309164415365](https://github.com/BigStrawberry0225/show_work/blob/main/README-images/image-20210309164415365.png)
 
 ## 一、引言
 
